@@ -1,2 +1,1 @@
-"# NQueens" 
-New update again
+"# NQueens"
