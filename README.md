@@ -1,1 +1,2 @@
 "# NQueens" 
+New
